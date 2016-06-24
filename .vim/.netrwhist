@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/usr/local/share/perl/5.18.2/Catalyst/Plugin'
+let g:netrw_dirhist_2='/usr/local/share/perl/5.18.2/Catalyst/Plugin/Static'
+let g:netrw_dirhist_3='/home/asan/dev/Paste/lib/Paste'
+let g:netrw_dirhist_4='/home/asan/dev/Paste/lib/Paste/App'
+let g:netrw_dirhist_5='/home/asan/dev/Paste/lib/Paste/Schema/Result'
